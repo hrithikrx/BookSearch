@@ -29,3 +29,8 @@ This is a React application that allows users to search for books using the Open
    ```bash
    git clone https://github.com/your-username/book-search-app.git
    cd book-search-app
+2. Install Dependencies  & Start the Development Server:
+
+  ```bash
+  npm install
+  npm start
